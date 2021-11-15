@@ -134,4 +134,7 @@ a = find_alphabetically_first_word("Aldair Walter Romário Elmer");
 print(a)
 
 #Ola uma nova linha foi adicionada
-#a
+
+
+# Manera pessoal quem consegui faze um commint adn push escreve se no li:
+    # Walter Santos
