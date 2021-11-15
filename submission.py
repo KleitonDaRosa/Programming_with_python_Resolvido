@@ -141,8 +141,3 @@ print(a)
     # Walter Santos
 
 
-    #change on pycharm software windows
-
-
-#change in browser
-
