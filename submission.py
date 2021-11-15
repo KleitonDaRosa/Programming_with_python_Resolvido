@@ -22,6 +22,7 @@ Position = Tuple[int, int]
 
 ############################################################
 # Problem 4a
+#appppp
 
 def find_alphabetically_first_word(text: str) -> str:
     """
@@ -139,3 +140,6 @@ print(a)
 #Ola uma nova linha foi adicionada
 # Manera pessoal quem consegui faze um commint and push escreve se nome li:
     # Walter Santos
+    
+    
+ #------------------------
