@@ -139,6 +139,10 @@ print(a)
 #Ola uma nova linha foi adicionada
 # Manera pessoal quem consegui faze um commint and push escreve se nome li:
     # Walter Santos
-    
-   
- #changed on githup browser
+
+
+    #change on pycharm software windows
+
+
+
+
