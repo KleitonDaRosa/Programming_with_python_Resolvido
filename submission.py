@@ -144,5 +144,3 @@ print(a)
     #change on pycharm software windows
 
 
-
-
