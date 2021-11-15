@@ -130,11 +130,12 @@ def find_nonsingleton_words(text: str) -> Set[str]:
     # END_YOUR_CODE
 
 
-a = find_alphabetically_first_word("Aldair Walter Romário Elmer");
+a = find_alphabetically_first_word("AAA WWW RRR UUU OOO BBB");
 print(a)
 
+
+
+
 #Ola uma nova linha foi adicionada
-
-
-# Manera pessoal quem consegui faze um commint adn push escreve se no li:
+# Manera pessoal quem consegui faze um commint and push escreve se nome li:
     # Walter Santos
